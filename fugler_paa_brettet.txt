@@ -1,0 +1,38 @@
+Gråspurv (Passer domesticus, House Sparrow) - CUB: 118
+Spettmeis (Sitta europaea, Eurasian nuthatch) - 
+Bydue (Columba livia domestica, Domestic Pigeon/Rock Pigeon) - 
+Skjære (Pica pica, Black-billed magpie) - NAbirds: 955 
+Dompap (Pyrrhula pyrrhula, Common Bullfinch) - 
+Kjøttmeis (Parus major, Great tit) - 
+Blåmeis (Cyanistes caeruleus, Eurasian blue tit) - 
+Flaggspett (Dendrocopos major, Great spotted woodpecker) - 
+Kråke (Corvus cornix, Hooded crow) -
+Svarttrost (Turdus merula, Common blackbird) -
+
+Trekryper (Certhia familiaris, Eurasian treecreeper)
+Toppmeis (Lophophanes cristatus, European crested tit)
+Stær (Sturnus vulgaris, Common starling)
+Stillits (Carduelis carduelis, European goldfinch) - CUB: 048
+Sidensvans (Bombycilla garrulus, Bohemian waxwing) - CUB: 185, NAbirds: 0858
+Ringdue (Columba palumbus, Common wood pigeon)
+Løvmeis (Poecile palustris, Marsh tit)
+Kjernebiter (Coccothraustes coccothraustes, Hawfinch)
+Kaie (Corvus monedula, Western jackdaw)
+Gråtrost (Turdus pilaris, Fieldfare)
+Gjerdesmett (Troglodytes troglodytes, Eurasian wren)
+Brunsisik (Carduelis cabaret, Lesser redpoll)
+Bokfink (Fringilla coelebs, Common chaffinch)
+Bjørkefink (Fringilla montifringilla, Brambling)
+Svartmeis (Periparus ater, Coal tit)
+Rødstrupe (Erithacus rubecula, European robin)
+Pilfink (Passer montanus, Eurasian tree sparrow) - CUB: 130 (not eurasian, but look similar), NAbirds: 0894 (American tree sparrow)
+Nøtteskrike (Garrulus glandarius, Eurasian jay)
+Gulspurv (Emberiza citrinella, Yellowhammer)
+Grønnsisik (Carduelis spinus, Eurasian siskin)
+Grønnfink (Carduelis chloris, European greenfinch)
+Gråsisik (Carduelis flammea, Common redpoll)
+Granmeis (Poecile montanus, willow tit)
+
+
+Oversikt:
+https://www.miljolare.no/aktiviteter/foringsplassen/artslister/fugler?artsvisning=liste

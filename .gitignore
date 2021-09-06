@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data folders
+images/
+images_norsk/
+images_norsk.zip
+
+
